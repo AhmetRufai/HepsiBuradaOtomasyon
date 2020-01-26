@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d101e6dd-c1b1-4975-bb2c-c39ec67cf3c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HepsiBuradaTestAutomation" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="RunnerClassForCucumber" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1WstRtpG2cohIlIxOed2W4fdod5" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.32407406" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.RunnerClassForCucumber">
+    <configuration name="HepsiBuradaTestAutomation [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="RunnerClassForCucumber" type="TestNG" nameIsGenerated="true">
+      <module name="HepsiBuradaTestAutomation.test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunnerClassForCucumber" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <module name="HepsiBuradaTestAutomation.test" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.RunnerClassForCucumber" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.HepsiBuradaTestAutomation [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d101e6dd-c1b1-4975-bb2c-c39ec67cf3c5" name="Default Changelist" comment="" />
+      <created>1579950124284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579950124284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Inspections" timestamp="1579978271016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1579978271016" />
+    <state x="361" y="73" key="#Project_Structure" timestamp="1580063271912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1580063271912" />
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579954319377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579954319377" />
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579954247961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1579954247961" />
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580039018912">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="151" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580039018912" />
+    <state x="552" y="115" width="683" height="582" key="#xdebugger.evaluate" timestamp="1580024629593">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="552" y="115" width="683" height="582" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1580024629593" />
+    <state width="401" height="466" key="DebuggerActiveHint" timestamp="1579983394610">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="401" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1579983394610" />
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom" timestamp="1580069196615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580069196615" />
+    <state width="1493" height="128" key="GridCell.Tab.0.center" timestamp="1580069196614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580069196614" />
+    <state width="1493" height="128" key="GridCell.Tab.0.left" timestamp="1580069196614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580069196614" />
+    <state width="1493" height="128" key="GridCell.Tab.0.right" timestamp="1580069196614">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580069196614" />
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom" timestamp="1580069138407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580069138407" />
+    <state width="1493" height="200" key="GridCell.Tab.1.center" timestamp="1580069138406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1580069138406" />
+    <state width="1493" height="200" key="GridCell.Tab.1.left" timestamp="1580069138406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1580069138406" />
+    <state width="1493" height="200" key="GridCell.Tab.1.right" timestamp="1580069138407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="200" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1580069138407" />
+    <state x="349" y="158" key="IDE.errors.dialog" timestamp="1579950180008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="158" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1579950180008" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1580040934125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580040934125" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1580062207131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580062207131" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580039824544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580039824544" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1579992358515">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579992358515" />
+  </component>
+</project>
